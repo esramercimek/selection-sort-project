@@ -1,2 +1,2 @@
 # selection-sort-project
-patidev project
+patikadev project
